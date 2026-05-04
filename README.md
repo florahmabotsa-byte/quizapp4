@@ -41,3 +41,6 @@ app/
  ┃ ┣ activity_score.xml
  ┃ ┗ activity_review.xml
  ┗ AndroidManifest.xml
+Author
+
+Flora Mabotsa
